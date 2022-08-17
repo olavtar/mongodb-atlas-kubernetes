@@ -36,7 +36,7 @@ endif
 BUNDLE_METADATA_OPTS ?= $(BUNDLE_CHANNELS) $(BUNDLE_DEFAULT_CHANNEL)
 
 # Base registry for the operator, bundle, catalog images
-REGISTRY ?= quay.io/mongodb
+REGISTRY ?= quay.io/olavtar
 # Image URL to use all building/pushing image targets
 IMG ?= $(REGISTRY)/mongodb-atlas-kubernetes-dbaas
 OPERATOR_REGISTRY ?= $(IMG)
