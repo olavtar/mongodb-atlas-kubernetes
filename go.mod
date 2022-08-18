@@ -108,4 +108,4 @@ require (
 	sigs.k8s.io/yaml v1.3.0 // indirect
 )
 
-replace github.com/RHEcosystemAppEng/dbaas-operator v0.1.4-0.20220601181250-cc7bd85ce9c0 => github.com/olavtar/dbaas-operator v0.1.4-0.20220817194123-04274e914465
+replace github.com/RHEcosystemAppEng/dbaas-operator v0.1.4-0.20220601181250-cc7bd85ce9c0 => github.com/olavtar/dbaas-operator v0.1.4-0.20220802194950-b7f6faee4c07
